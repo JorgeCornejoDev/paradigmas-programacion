@@ -1,2 +1,1 @@
-# paradigmas-programacion
-Curso sobre la historia de los paradigmas de programacion
+## Curso PLATZI Paradigmas de programación
